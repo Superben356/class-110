@@ -1,0 +1,42 @@
+body{
+font-family: 'Itim', cursive;
+background-color: mediumorchid;
+}
+
+.header_div{
+  background-color: white;
+  color: crimson;
+}
+
+.header_div img{
+  width: 100px;
+}
+
+.main_div{
+    background: darkgray;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background: white;
+    width: 310;
+    padding:10px ;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#camera{
+    border: 2px solid white;
+    height: 300;
+    width: 310;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
